@@ -1,0 +1,18 @@
+title: WhosThatPet.io
+description: KI-gestützte Haustier-Findeplattform
+theme: jekyll-theme-cayman
+baseurl: ""
+url: ""
+
+# Navigation
+navigation:
+  - title: Start
+    url: /
+  - title: Nutzerrollen
+    url: /roles
+  - title: Core-Flows
+    url: /flows
+  - title: Technische Details
+    url: /technical
+  - title: Datenschutz & Sicherheit
+    url: /privacy

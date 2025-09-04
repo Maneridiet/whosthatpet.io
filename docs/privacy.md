@@ -8,10 +8,10 @@ title: Datenschutz
 ## Datenschutz-Grundsätze
 
 ### Privacy by Design
-- Datensparsamkeit als Grundprinzip
-- Zweckgebundene Datenerhebung
-- Transparente Datenverarbeitung
-- Implementierte Löschkonzepte
+ Datensparsamkeit als Grundprinzip
+ Zweckgebundene Datenerhebung
+ Transparente Datenverarbeitung
+ Implementierte Löschkonzepte
 
 ### Rechte der Betroffenen
 - Auskunftsrecht (JSON/CSV-Export)

@@ -6,7 +6,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
 # Für wen ist WhosThatPet.io? 
 
 <div class="hero">
-    <img src="{{ site.baseurl }}/assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
+    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Jeder kann helfen - jeder kann profitieren</h1>
     <p>Unsere App verbindet alle, die Tieren helfen möchten</p>
 </div>

@@ -1,14 +1,2 @@
 title: WhosThatPet.io
-description: KI-gestützte Haustiersuche
-baseurl: ""
-url: ""
-encoding: UTF-8
-markdown: kramdown
-plugins:
-  - jekyll-feed
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
+description: KI-gestuetzte Haustiersuche

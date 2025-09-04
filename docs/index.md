@@ -3,17 +3,10 @@ layout: simple
 title: Home
 ---
 
-# WhosThatPet.io - Liebevoll v    <div class="cta-buttons">
-        <a href="flows.html" class="btn btn-primary">
-            🔍 Wie funktioniert es?
-        </a>
-        <a href="roles.html" class="btn btn-secondary">
-            👥 Mehr erfahren
-        </a>
-    </div> Haustiere nach Hause bringen
+# WhosThatPet.io - Liebevoll vermisste Haustiere nach Hause bringen
 
 <div class="hero">
-    <img src="{{ site.baseurl }}/assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
+    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Dein Haustier vermisst? Wir helfen!</h1>
     <p>Jede Minute zählt! Mit unserer intelligenten App bringen wir vermisste Fellnasen schneller zurück zu ihren liebenden Familien.</p>
     <a href="#start" class="btn">🔍 Sofort Tier suchen</a>
@@ -77,11 +70,11 @@ title: Home
     <h2>Helfen Sie mit - jetzt sofort!</h2>
     <p>Jede Sekunde zählt, wenn ein Tier vermisst wird</p>
     <div class="cta-buttons">
-        <a href="/flows" class="btn btn-primary">
-            � Wie funktioniert es?
+        <a href="flows.html" class="btn btn-primary">
+            🔍 Wie funktioniert es?
         </a>
-        <a href="/roles" class="btn btn-secondary">
-            � Mehr erfahren
+        <a href="roles.html" class="btn btn-secondary">
+            👥 Mehr erfahren
         </a>
     </div>
 </div>

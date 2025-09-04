@@ -39,7 +39,7 @@ title: Für wen ist WhosThatPet?
         </div>
     </div>
     
-    <a href="/finder" class="btn btn-primary">🐾 Tier gefunden? Hier melden!</a>
+    <a href="/flows" class="btn btn-primary">� So funktioniert's</a>
 </div>
 
 ## 💔 Für Tierbesitzer - Ihr Tier ist weg?
@@ -77,7 +77,7 @@ title: Für wen ist WhosThatPet?
         </div>
     </div>
     
-    <a href="/register" class="btn btn-primary">💔 Mein Tier ist weg</a>
+    <a href="#pricing" class="btn btn-primary">� Preise ansehen</a>
 </div>
 
 ## 🏥 Für Tierheime & Tierarztpraxen - Professionelle Hilfe
@@ -105,12 +105,12 @@ title: Für wen ist WhosThatPet?
         <cite>- Dr. Sarah Weber, Tierheim München</cite>
     </div>
     
-    <a href="/business" class="btn btn-primary">🏥 Für Profis</a>
+    <a href="/technical" class="btn btn-primary">⚙️ Technik Details</a>
 </div>
 
 ## 💰 Preise - Fair und transparent
 
-<div class="pricing-section">
+<div class="pricing-section" id="pricing">
     <h2>Was kostet WhosThatPet?</h2>
     <p>Helfen sollte für jeden möglich sein - deshalb haben wir faire Preise</p>
     
@@ -127,7 +127,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Anonymer Kontakt</li>
                 <li>✅ Unbegrenzt nutzen</li>
             </ul>
-            <a href="/finder" class="btn">Sofort loslegen</a>
+            <a href="/flows" class="btn">🔍 Funktionen ansehen</a>
         </div>
         
         <div class="pricing-card basic">
@@ -142,7 +142,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Benachrichtigungen</li>
                 <li>✅ Basis-Support</li>
             </ul>
-            <a href="/register" class="btn">Registrieren</a>
+            <a href="/flows" class="btn">🚀 Mehr erfahren</a>
         </div>
         
         <div class="pricing-card pro popular">
@@ -159,7 +159,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Premium-Support</li>
                 <li>✅ Detaillierte Statistiken</li>
             </ul>
-            <a href="/register" class="btn">Jetzt upgraden</a>
+            <a href="/technical" class="btn">⭐ Alle Features</a>
         </div>
         
         <div class="pricing-card business">
@@ -175,7 +175,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Persönlicher Support</li>
                 <li>✅ Custom Integration</li>
             </ul>
-            <a href="/business" class="btn">Angebot anfordern</a>
+            <a href="/technical" class="btn">🏥 Enterprise Info</a>
         </div>
     </div>
 </div>

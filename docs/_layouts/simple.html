@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>WhosThatPet.io</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
@@ -12,6 +12,8 @@
             color: #333; 
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
+            padding-bottom: 4rem;
+            overflow-x: hidden;
         }
         
         .header { 
@@ -33,10 +35,23 @@
             padding: 0 2rem;
         }
         
+        .main-wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            padding: 0 1rem;
+        }
+        
         .logo-container { 
             display: flex; 
             align-items: center; 
             gap: 1rem; 
+        }
+        
+        .header-logo {
+            width: 40px;
+            height: 40px;
+            object-fit: contain;
         }
         
         .logo-icon {
@@ -87,12 +102,15 @@
         
         .container { 
             max-width: 1200px; 
-            margin: 2rem auto; 
+            width: 95%;
+            margin: 2rem auto 4rem auto; 
             padding: 2rem; 
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.98);
             backdrop-filter: blur(10px);
             border-radius: 20px; 
             box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            min-height: calc(100vh - 200px);
+            overflow: visible;
         }
         
         .hero { 
@@ -678,7 +696,7 @@
     <header class="header">
         <div class="header-content">
             <div class="logo-container">
-                <div class="logo-icon">🐾</div>
+                <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="header-logo">
                 <a href="index.html" class="logo-text">WhosThatPet.io</a>
             </div>
             <nav class="nav">
@@ -690,8 +708,10 @@
             </nav>
         </div>
     </header>
-    <div class="container">
-        {{ content }}
+    <div class="main-wrapper">
+        <div class="container">
+            {{ content }}
+        </div>
     </div>
 </body>
 </html>

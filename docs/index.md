@@ -70,11 +70,11 @@ title: Home
     <h2>Helfen Sie mit - jetzt sofort!</h2>
     <p>Jede Sekunde zählt, wenn ein Tier vermisst wird</p>
     <div class="cta-buttons">
-        <a href="/finder" class="btn btn-primary">
-            🐾 Tier gefunden? Hier melden!
+        <a href="flows.html" class="btn btn-primary">
+            🔍 Wie funktioniert es?
         </a>
-        <a href="/register" class="btn btn-secondary">
-            💔 Mein Tier vermisst
+        <a href="roles.html" class="btn btn-secondary">
+            👥 Mehr erfahren
         </a>
     </div>
 </div>

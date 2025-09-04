@@ -1,23 +1,2 @@
 title: WhosThatPet.io
-description: KI-gestützte Haustier-Matching-Plattform
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # will be set by GitHub Pages
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-seo-tag
-
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Nutzerrollen
-    url: /roles.html
-  - title: Funktionsweise
-    url: /flows.html
-  - title: Technische Details
-    url: /technical.html
-  - title: Datenschutz
-    url: /privacy.html
+description: KI-gestuetzte Haustiersuche

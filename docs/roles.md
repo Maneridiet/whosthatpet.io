@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So funktioniert's</a>osThatPet?
+title: Für wen ist WhosThatPet?
 ---
 
 # Für wen ist WhosThatPet.io? 
@@ -39,7 +39,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
         </div>
     </div>
     
-    <a href="/flows" class="btn btn-primary">� So funktioniert's</a>
+    <a href="flows.html" class="btn btn-primary">🔍 So funktioniert's</a>
 </div>
 
 ## 💔 Für Tierbesitzer - Ihr Tier ist weg?
@@ -77,7 +77,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
         </div>
     </div>
     
-    <a href="#pricing" class="btn btn-primary">� Preise ansehen</a>
+    <a href="#pricing" class="btn btn-primary">💰 Preise ansehen</a>
 </div>
 
 ## 🏥 Für Tierheime & Tierarztpraxen - Professionelle Hilfe
@@ -105,7 +105,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
         <cite>- Dr. Sarah Weber, Tierheim München</cite>
     </div>
     
-    <a href="technical.html" class="btn btn-primary">⚙️ Technik Details</a>
+    <a href="flows.html" class="btn btn-primary">🔍 Wie es funktioniert</a>
 </div>
 
 ## 💰 Preise - Fair und transparent
@@ -159,7 +159,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
                 <li>✅ Premium-Support</li>
                 <li>✅ Detaillierte Statistiken</li>
             </ul>
-            <a href="technical.html" class="btn">⭐ Alle Features</a>
+            <a href="flows.html" class="btn">⭐ Alle Features</a>
         </div>
         
         <div class="pricing-card business">
@@ -175,7 +175,7 @@ title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So fu
                 <li>✅ Persönlicher Support</li>
                 <li>✅ Custom Integration</li>
             </ul>
-            <a href="technical.html" class="btn">🏥 Enterprise Info</a>
+            <a href="flows.html" class="btn">🏥 Enterprise Info</a>
         </div>
     </div>
 </div>

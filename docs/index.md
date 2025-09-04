@@ -3,8 +3,6 @@ layout: simple
 title: Home
 ---
 
-# WhosThatPet.io - Liebevoll vermisste Haustiere nach Hause bringen
-
 <div class="hero">
     <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Dein Haustier vermisst? Wir helfen!</h1>

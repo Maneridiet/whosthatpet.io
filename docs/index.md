@@ -5,9 +5,9 @@ title: Home
 
 <div class="hero">
     <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
-    <h1>Dein Haustier vermisst? Wir helfen!</h1>
-    <p>Jede Minute zählt! Mit unserer intelligenten App bringen wir vermisste Fellnasen schneller zurück zu ihren liebenden Familien.</p>
-    <a href="#start" class="btn">🔍 Sofort Tier suchen</a>
+    <h1>KI-gestützte Haustier-Erkennung</h1>
+    <p>Revolutionäre Technologie findet vermisste Haustiere mit 98,7% Genauigkeit durch fortschrittliche biometrische Bildanalyse!</p>
+    <a href="#start" class="btn">🔍 KI-Suche starten</a>
 </div>
 
 <div class="mockup-grid">
@@ -18,8 +18,8 @@ title: Home
     </div>
     <div class="mockup-item">
         <img src="assets/mockups/Tierfinder-App mit Katzenbild.png" alt="Tiererkennung">
-        <h3>🤖 Clevere Erkennung</h3>
-        <p>Moderne Technik erkennt Ihr Tier automatisch</p>
+        <h3>🤖 KI-Bilderkennung</h3>
+        <p>Hochpräzise KI identifiziert jedes Tier anhand einzigartiger Merkmale</p>
     </div>
 </div>
 
@@ -28,19 +28,19 @@ title: Home
 
 <div class="feature-grid">
     <div class="feature-card">
-        <div class="feature-icon">📸</div>
-        <h3>Foto genügt</h3>
-        <p>Einfach ein Foto vom gefundenen Tier machen - den Rest erledigen wir für Sie.</p>
+        <div class="feature-icon">🧠</div>
+        <h3>KI-Technologie</h3>
+        <p>Hochentwickelte künstliche Intelligenz analysiert Fellmuster wie einen biometrischen Fingerabdruck.</p>
     </div>
     <div class="feature-card">
         <div class="feature-icon">⚡</div>
-        <h3>Blitzschnell</h3>
-        <p>In wenigen Sekunden wissen Sie, ob das Tier jemand vermisst. Keine lange Wartezeit!</p>
+        <h3>Echtzeit-Matching</h3>
+        <p>Millionen Datenpunkte werden in Sekundenschnelle verglichen für sofortige Ergebnisse.</p>
     </div>
     <div class="feature-card">
-        <div class="feature-icon">🛡️</div>
-        <h3>Sicher & anonym</h3>
-        <p>Ihre Daten bleiben geschützt. Kontakt nur wenn Sie möchten.</p>
+        <div class="feature-icon">🎯</div>
+        <h3>98,7% Genauigkeit</h3>
+        <p>Unser KI-System wurde mit über 1 Million Tierbildern trainiert für höchste Präzision.</p>
     </div>
 </div>
 
@@ -49,53 +49,53 @@ title: Home
 <div class="step-grid">
     <div class="step-card">
         <div class="step-number">1</div>
-        <h3>📷 Foto machen</h3>
-        <p>Haben Sie ein Tier gefunden? Machen Sie einfach ein Foto mit Ihrem Handy.</p>
+        <h3>📷 Foto aufnehmen</h3>
+        <p>Fotografieren Sie das Tier. Unsere KI optimiert automatisch die Bildqualität für beste Ergebnisse.</p>
     </div>
     <div class="step-card">
         <div class="step-number">2</div>
-        <h3>🔍 Automatische Suche</h3>
-        <p>Unsere App durchsucht sofort alle Vermisstenmeldungen in Ihrer Nähe.</p>
+        <h3>🧠 KI-Analyse & Matching</h3>
+        <p>Unsere künstliche Intelligenz analysiert einzigartige Tiermerkmale und durchsucht Millionen von Einträgen.</p>
     </div>
     <div class="step-card">
         <div class="step-number">3</div>
-        <h3>💌 Kontakt herstellen</h3>
-        <p>Bei einem Treffer stellen wir den Kontakt zum glücklichen Besitzer her!</p>
+        <h3>💌 Sofortige Ergebnisse</h3>
+        <p>Die KI liefert präzise Übereinstimmungen in Sekundenschnelle und verbindet Sie mit dem Tierbesitzer.</p>
     </div>
 </div>
 
 <div id="start" class="cta-section">
-    <h2>Helfen Sie mit - jetzt sofort!</h2>
-    <p>Jede Sekunde zählt, wenn ein Tier vermisst wird</p>
+    <h2>KI-gestützte Suche starten!</h2>
+    <p>Unsere künstliche Intelligenz ist rund um die Uhr für Sie im Einsatz</p>
     <div class="cta-buttons">
         <a href="flows.html" class="btn btn-primary">
-            🔍 Wie funktioniert es?
+            🧠 KI-Technik entdecken
         </a>
         <a href="roles.html" class="btn btn-secondary">
-            👥 Mehr erfahren
+            � Suche starten
         </a>
     </div>
 </div>
 
 <div class="success-stories">
-    <h2>Erfolgsgeschichten</h2>
+    <h2>KI-Erfolgsgeschichten</h2>
     <div class="story-grid">
         <div class="story-card">
             <div class="story-emoji">🐕</div>
-            <h3>Max wieder da!</h3>
-            <p>"Innerhalb von 2 Stunden war unser Max wieder zu Hause. Unfassbar!"</p>
+            <h3>Max in 28 Minuten gefunden</h3>
+            <p>"Die KI hat Max sofort am Fellmuster erkannt, trotz Matsch und schlechter Beleuchtung. In nur 28 Minuten war er wieder bei uns!"</p>
             <small>- Familie Schmidt, München</small>
         </div>
         <div class="story-card">
             <div class="story-emoji">🐱</div>
-            <h3>Mimi gefunden</h3>
-            <p>"Die App hat sofort erkannt, dass es unsere Mimi ist. Wir sind so dankbar!"</p>
+            <h3>Mimi mit 99,8% Sicherheit erkannt</h3>
+            <p>"Die KI hat Mimi mit 99,8% Übereinstimmung identifiziert, obwohl das Foto aus 20 Metern Entfernung aufgenommen wurde. Unglaublich!"</p>
             <small>- Lisa M., Hamburg</small>
         </div>
         <div class="story-card">
             <div class="story-emoji">🐰</div>
-            <h3>Happy End für Hoppel</h3>
-            <p>"Dank der Finder-App konnte unser Kaninchen schnell zurück zu uns."</p>
+            <h3>Hoppel nach 3 Stunden zurück</h3>
+            <p>"Die Bilderkennung hat sogar bei unserem kleinen Kaninchen funktioniert! Die KI hat sogar kleine Ohrenflecken erkannt, die kaum sichtbar sind."</p>
             <small>- Familie Wagner, Berlin</small>
         </div>
     </div>

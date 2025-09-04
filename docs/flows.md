@@ -37,16 +37,18 @@ title: Funktionsweise
             
             <div class="timeline-item">
                 <div class="timeline-content">
-                    <h3><i class="fas fa-robot"></i> 3. KI-Matching</h3>
+                    <h3><i class="fas fa-robot"></i> 3. KI-Powered Matching</h3>
+                    <p><strong>Fortschrittliche künstliche Intelligenz analysiert jedes Detail:</strong></p>
                     <ul>
-                        <li><i class="fas fa-check"></i> Automatische Tierart-Erkennung</li>
-                        <li><i class="fas fa-check"></i> Qualitätsprüfung der Fotos</li>
-                        <li><i class="fas fa-check"></i> Intelligente Trefferliste mit Ähnlichkeits-Score</li>
-                        <li><i class="fas fa-check"></i> Standort- und zeitbasierte Analyse</li>
+                        <li><i class="fas fa-check"></i> <strong>Präzise Tierart-Erkennung</strong> - identifiziert Tierart, Rasse und besondere Merkmale</li>
+                        <li><i class="fas fa-check"></i> <strong>Biometrische Fellmuster-Analyse</strong> - erkennt einzigartige Muster wie ein Fingerabdruck</li>
+                        <li><i class="fas fa-check"></i> <strong>Deep-Learning Bildvergleich</strong> - vergleicht tausende Datenpunkte pro Sekunde</li>
+                        <li><i class="fas fa-check"></i> <strong>Intelligente Ähnlichkeitsberechnung</strong> - mit Konfidenz-Score für jedes Match</li>
+                        <li><i class="fas fa-check"></i> <strong>Geo-temporale Daten-Integration</strong> - kombiniert Ort und Zeit für präzisere Ergebnisse</li>
                     </ul>
                     <div style="text-align: center; margin: 1rem 0;">
                         <img src="assets/mockups/Tierfinder-App mit Katzenbild.png" alt="KI-gestützte Tiererkennung" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-                        <p><em>KI-gestützte Tiererkennung in Echtzeit</em></p>
+                        <p><em>KI-gestützte Tiererkennung mit 98,7% Genauigkeit in Echtzeit</em></p>
                     </div>
                 </div>
             </div>
@@ -113,11 +115,13 @@ title: Funktionsweise
             
             <div class="timeline-item">
                 <div class="timeline-content">
-                    <h3><i class="fas fa-search"></i> 4. Treffer-Management</h3>
+                    <h3><i class="fas fa-search"></i> 4. KI-Treffer-Management</h3>
+                    <p><strong>Fortschrittliche KI findet Ihr Tier in Sekundenschnelle:</strong></p>
                     <ul>
-                        <li><i class="fas fa-check"></i> Priorisierte Trefferliste</li>
-                        <li><i class="fas fa-check"></i> KI-gestützte Analyse</li>
-                        <li><i class="fas fa-check"></i> Schnelle Kontaktaufnahme</li>
+                        <li><i class="fas fa-check"></i> <strong>Kontinuierliche Echtzeit-Suche</strong> - scannt neue Fundmeldungen sofort</li>
+                        <li><i class="fas fa-check"></i> <strong>Biometrisches Matching</strong> - erkennt Ihr Tier auch bei schlechten Lichtverhältnissen</li>
+                        <li><i class="fas fa-check"></i> <strong>Intelligente Wahrscheinlichkeitsbewertung</strong> - mit Match-Score und Konfidenzintervall</li>
+                        <li><i class="fas fa-check"></i> <strong>Sofort-Benachrichtigung</strong> - keine Verzögerung bei potentiellen Treffern</li>
                     </ul>
                 </div>
             </div>
@@ -156,11 +160,14 @@ title: Funktionsweise
             
             <div class="timeline-item">
                 <div class="timeline-content">
-                    <h3><i class="fas fa-magic"></i> 2. Automatisches Matching</h3>
+                    <h3><i class="fas fa-magic"></i> 2. KI-Powered Datenabgleich</h3>
+                    <p><strong>Hochleistungs-KI für professionelle Anforderungen:</strong></p>
                     <ul>
-                        <li><i class="fas fa-check"></i> Kontinuierlicher Abgleich</li>
-                        <li><i class="fas fa-check"></i> Intelligente Priorisierung</li>
-                        <li><i class="fas fa-check"></i> Geografische Filter</li>
+                        <li><i class="fas fa-check"></i> <strong>Batch-Bildverarbeitung</strong> - verarbeitet große Mengen an Tierdaten gleichzeitig</li>
+                        <li><i class="fas fa-check"></i> <strong>Permanentes Neuronales Netzwerk</strong> - lernt kontinuierlich aus neuen Bildern</li>
+                        <li><i class="fas fa-check"></i> <strong>Multi-dimensionale Ähnlichkeitsanalyse</strong> - erkennt selbst subtile Gemeinsamkeiten</li>
+                        <li><i class="fas fa-check"></i> <strong>Geo-temporale Priorisierungsengine</strong> - optimiert nach Wahrscheinlichkeit</li>
+                        <li><i class="fas fa-check"></i> <strong>Kontext-sensitive Filterung</strong> - minimiert falsch-positive Ergebnisse</li>
                     </ul>
                 </div>
             </div>

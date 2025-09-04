@@ -13,12 +13,12 @@ title: Home
 
 <div class="mockup-grid">
     <div class="mockup-item">
-        ![iPhone App](/assets/mockups/iPhone 15 mit Whosthatpet.io App.png)
-        *WhosThatPet.io App auf dem iPhone 15*
+        <img src="{{ '/assets/mockups/iPhone 15 mit Whosthatpet.io App.png' | relative_url }}" alt="WhosThatPet.io App auf dem iPhone 15" style="max-height: 400px; width: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <p><em>WhosThatPet.io App auf dem iPhone 15</em></p>
     </div>
     <div class="mockup-item">
-        ![Tierfinder App](/assets/mockups/Tierfinder-App mit Katzenbild.png)
-        *Intelligente Tiererkennung in Aktion*
+        <img src="{{ '/assets/mockups/Tierfinder-App mit Katzenbild.png' | relative_url }}" alt="Intelligente Tiererkennung in Aktion" style="max-height: 400px; width: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <p><em>Intelligente Tiererkennung in Aktion</em></p>
     </div>
 </div>
 

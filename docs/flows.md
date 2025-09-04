@@ -11,8 +11,8 @@ title: Funktionsweise
 </div>
 
 <div style="text-align: center; margin: 2rem 0;">
-    ![Sichtungen von Haustieren in Berlin](/assets/mockups/Sichtungen von Haustieren in Berlin.png)
-    *Live-Übersicht der Tiersichtungen in Berlin*
+    <img src="{{ '/assets/mockups/Sichtungen von Haustieren in Berlin.png' | relative_url }}" alt="Live-Übersicht der Tiersichtungen in Berlin" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p><em>Live-Übersicht der Tiersichtungen in Berlin</em></p>
 </div>
 
 <div class="feature-grid">
@@ -45,8 +45,10 @@ title: Funktionsweise
                         <li><i class="fas fa-check"></i> Intelligente Trefferliste mit Ähnlichkeits-Score</li>
                         <li><i class="fas fa-check"></i> Standort- und zeitbasierte Analyse</li>
                     </ul>
-                    ![KI-Erkennung](/assets/mockups/Tierfinder-App mit Katzenbild.png)
-                    *KI-gestützte Tiererkennung in Echtzeit*
+                    <div style="text-align: center; margin: 1rem 0;">
+                        <img src="{{ '/assets/mockups/Tierfinder-App mit Katzenbild.png' | relative_url }}" alt="KI-gestützte Tiererkennung" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                        <p><em>KI-gestützte Tiererkennung in Echtzeit</em></p>
+                    </div>
                 </div>
             </div>
             
@@ -92,8 +94,10 @@ title: Funktionsweise
                         <li><i class="fas fa-check"></i> Hochwertige Fotos</li>
                         <li><i class="fas fa-check"></i> Sichere Mikrochip-Speicherung</li>
                     </ul>
-                    ![Katzen-Profil](/assets/mockups/Vermisste Katze Mila - Profil.png)
-                    *Beispiel eines detaillierten Tierprofils*
+                    <div style="text-align: center; margin: 1rem 0;">
+                        <img src="{{ '/assets/mockups/Vermisste Katze Mila - Profil.png' | relative_url }}" alt="Beispiel eines Tierprofils" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                        <p><em>Beispiel eines detaillierten Tierprofils</em></p>
+                    </div>
                 </div>
             </div>
             

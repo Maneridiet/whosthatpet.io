@@ -45,15 +45,15 @@ title: Funktionsweise
                         <li><i class="fas fa-check"></i> Intelligente Trefferliste mit Ähnlichkeits-Score</li>
                         <li><i class="fas fa-check"></i> Standort- und zeitbasierte Analyse</li>
                     </ul>
+                    ![KI-Erkennung](/assets/mockups/Tierfinder-App mit Katzenbild.png)
+                    *KI-gestützte Tiererkennung in Echtzeit*
                 </div>
             </div>
             
             <div class="timeline-item">
                 <div class="timeline-content">
                     <h3><i class="fas fa-comments"></i> 4. Kontaktaufnahme</h3>
-                    <p>Sichere und anonyme Kommunikation über unser Privacy-Relay.</p>
-                    ![Chat Interface](/assets/mockups/ChatGPT Image 4. Sept. 2025, 09_40_41.png)
-                    *Unsere sichere Chat-Oberfläche*
+                    <p>Sichere und anonyme Kommunikation über unser Privacy-Relay. Wählen Sie zwischen Chat, Anrufen oder SMS.</p>
                 </div>
             </div>
             
@@ -92,6 +92,8 @@ title: Funktionsweise
                         <li><i class="fas fa-check"></i> Hochwertige Fotos</li>
                         <li><i class="fas fa-check"></i> Sichere Mikrochip-Speicherung</li>
                     </ul>
+                    ![Katzen-Profil](/assets/mockups/Vermisste Katze Mila - Profil.png)
+                    *Beispiel eines detaillierten Tierprofils*
                 </div>
             </div>
             

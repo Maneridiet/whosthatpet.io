@@ -11,8 +11,16 @@ title: Home
     <a href="#start" class="btn btn-primary">Jetzt Tier melden</a>
 </div>
 
-![Mobile Interface](/assets/mockups/Handy-Spendeformular mit Haustierbildern.png)
-*Unsere benutzerfreundliche mobile App*
+<div class="mockup-grid">
+    <div class="mockup-item">
+        ![iPhone App](/assets/mockups/iPhone 15 mit Whosthatpet.io App.png)
+        *WhosThatPet.io App auf dem iPhone 15*
+    </div>
+    <div class="mockup-item">
+        ![Tierfinder App](/assets/mockups/Tierfinder-App mit Katzenbild.png)
+        *Intelligente Tiererkennung in Aktion*
+    </div>
+</div>
 
 <div class="feature-grid">
     <div class="feature-card">

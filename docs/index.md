@@ -1,5 +1,10 @@
 ---
-layout: simple
+la<div class="hero">
+    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
+    <h1>Vermisste Haustiere schneller nach Hause bringen</h1>
+    <p>Mit modernster KI-Technologie helfen wir, gefundene und vermisste Haustiere mit ihren Besitzern zu vereinen.</p>
+    <a href="#start" class="btn">Jetzt Tier melden</a>
+</div> simple
 title: Home
 ---
 

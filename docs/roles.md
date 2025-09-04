@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 title: Nutzerrollen
 ---
 
@@ -109,6 +109,6 @@ Verantwortlichkeiten:
 </div>
 
 <div style="text-align: center; margin: 2rem 0;">
-    <img src="{{ '/assets/mockups/Abonnementvergleich für Whosthatpet.io.png' | relative_url }}" alt="Detaillierte Übersicht aller Tarife" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="assets/mockups/Abonnementvergleich für Whosthatpet.io.png" alt="Detaillierte Übersicht aller Tarife" style="max-width: 100%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p><em>Detaillierte Übersicht aller Tarife und Funktionen</em></p>
 </div>

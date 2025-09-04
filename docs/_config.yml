@@ -1,2 +1,8 @@
 title: WhosThatPet.io
 description: KI-gestuetzte Haustiersuche
+defaults:
+  -
+    scope:
+      path: "" # An empty string here means all files in the project
+    values:
+      layout: "simple"

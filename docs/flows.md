@@ -3,7 +3,6 @@ layout: simple
 title: Funktionsweise
 ---
 
-# Funktionsweise der WhosThatPet.io Plattform
 
 <div class="hero">
     <h1>So funktioniert WhosThatPet.io</h1>

@@ -3,7 +3,6 @@ layout: simple
 title: Datenschutz
 ---
 
-# Datenschutz & Sicherheit
 
 ## Datenschutz-Grundsätze
 

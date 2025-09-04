@@ -3,7 +3,6 @@ layout: simple
 title: Technische Details
 ---
 
-# Technische Details
 
 <div class="hero">
     <h1>Technische Architektur</h1>

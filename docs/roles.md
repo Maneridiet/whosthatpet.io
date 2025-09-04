@@ -3,7 +3,6 @@ layout: simple
 title: Für wen ist WhosThatPet?
 ---
 
-# Für wen ist WhosThatPet.io? 
 
 <div class="hero">
     <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">

@@ -5,10 +5,32 @@ title: Home
 
 # WhosThatPet.io - KI-gestützte Haustiersuche
 
-![Spenden-Interface](/assets/mockups/Handy-Spendeformular mit Haustierbildern.png)
-*Mobile Ansicht unserer Plattform*
+<div class="hero">
+    <h1>Vermisste Haustiere schneller nach Hause bringen</h1>
+    <p>Mit modernster KI-Technologie helfen wir, gefundene und vermisste Haustiere mit ihren Besitzern zu vereinen.</p>
+    <a href="#start" class="btn btn-primary">Jetzt Tier melden</a>
+</div>
 
-## Schneller vermisste Haustiere finden mit KI-Bilderkennung
+![Mobile Interface](/assets/mockups/Handy-Spendeformular mit Haustierbildern.png)
+*Unsere benutzerfreundliche mobile App*
+
+<div class="feature-grid">
+    <div class="feature-card">
+        <i class="fas fa-camera"></i>
+        <h3>Einfaches Foto-Upload</h3>
+        <p>Laden Sie ein Foto hoch und unsere KI vergleicht es sofort mit der Datenbank vermisster Tiere.</p>
+    </div>
+    <div class="feature-card">
+        <i class="fas fa-map-marker-alt"></i>
+        <h3>Intelligentes Matching</h3>
+        <p>Automatischer Abgleich mit Vermisstenmeldungen in Ihrer Nähe und präzise Trefferquoten.</p>
+    </div>
+    <div class="feature-card">
+        <i class="fas fa-shield-alt"></i>
+        <h3>Sicherer Kontakt</h3>
+        <p>Anonyme und sichere Kommunikation zwischen Findern und Besitzern über unser Privacy-Relay.</p>
+    </div>
+</div>
 
 WhosThatPet.io ist eine innovative Plattform, die modernste KI-Technologie nutzt, um vermisste Haustiere schneller mit ihren Besitzern zu vereinen. Unsere Lösung ist einfach, effektiv und kostenlos für Finder.
 
@@ -46,8 +68,40 @@ WhosThatPet.io ist eine innovative Plattform, die modernste KI-Technologie nutzt
 - Automatische Matching-Warteschlange
 - Detaillierte Statistiken
 
-### Starten Sie jetzt
+## So funktioniert's
 
-- [Tier gefunden? Hier melden](/finder)
-- [Als Besitzer registrieren](/register)
-- [Für Tierheime & Tierärzte](/business)
+<div class="timeline">
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h3><i class="fas fa-upload"></i> 1. Foto hochladen</h3>
+            <p>Nehmen Sie ein Foto des gefundenen Tieres auf oder laden Sie bestehende Bilder hoch.</p>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h3><i class="fas fa-search"></i> 2. KI-Analyse</h3>
+            <p>Unsere KI vergleicht das Foto sofort mit allen gemeldeten vermissten Tieren in der Umgebung.</p>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h3><i class="fas fa-comments"></i> 3. Kontakt aufnehmen</h3>
+            <p>Bei einem Match können Sie sicher und anonym mit dem Besitzer kommunizieren.</p>
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center; margin-top: 3rem;">
+    <h2 id="start">Jetzt starten</h2>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/finder" class="btn btn-primary">
+            <i class="fas fa-paw"></i> Tier gefunden melden
+        </a>
+        <a href="/register" class="btn btn-primary">
+            <i class="fas fa-user-plus"></i> Als Besitzer registrieren
+        </a>
+        <a href="/business" class="btn btn-primary">
+            <i class="fas fa-building"></i> Für Tierheime & Tierärzte
+        </a>
+    </div>
+</div>

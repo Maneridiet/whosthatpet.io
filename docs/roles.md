@@ -5,64 +5,108 @@ title: Nutzerrollen
 
 # Nutzerrollen bei WhosThatPet.io
 
-Unsere Plattform ist für verschiedene Nutzergruppen optimiert, um den Prozess der Tiersuche so effizient wie möglich zu gestalten.
+<div class="hero">
+    <h1>Für jeden die passende Rolle</h1>
+    <p>Unsere Plattform ist für verschiedene Nutzergruppen optimiert, um den Prozess der Tiersuche so effizient wie möglich zu gestalten.</p>
+</div>
 
-## Finder (ohne Login, kostenlos)
+<div class="feature-grid">
+    <div class="feature-card">
+        <i class="fas fa-search"></i>
+        <h2>Finder</h2>
+        <p><strong>Kostenlos, ohne Login</strong></p>
 
-Als Finder eines Tieres können Sie sofort und ohne Registrierung:
-- Fotos des gefundenen Tieres hochladen
-- Fundmeldung erstellen
-- Besitzer anonym über unser Privacy-Relay kontaktieren
+Als Finder können Sie sofort:
+- <i class="fas fa-camera"></i> Fotos hochladen
+- <i class="fas fa-bell"></i> Fundmeldung erstellen
+- <i class="fas fa-shield-alt"></i> Anonym kommunizieren
+    </div>
 
-## Besitzer (Owner)
+    <div class="feature-card">
+        <i class="fas fa-home"></i>
+        <h2>Besitzer</h2>
+        <p><strong>Persönliches Konto</strong></p>
 
-Mit einem kostenlosen Besitzer-Konto erhalten Sie:
-- Detaillierte Tierprofile anlegen
-- Vermisstenstatus aktivieren/deaktivieren
-- Automatische Benachrichtigungen bei möglichen Treffern
-- Sichere Kommunikation via Chat oder Relay-Anrufe
+Als Besitzer erhalten Sie:
+- <i class="fas fa-id-card"></i> Detaillierte Tierprofile
+- <i class="fas fa-bell"></i> Automatische Benachrichtigungen
+- <i class="fas fa-comments"></i> Sichere Kommunikation
+- <i class="fas fa-star"></i> Premium-Features verfügbar
+    </div>
 
-### Premium-Features für Besitzer
-- Boost-Funktion für höhere Sichtbarkeit (7 Tage)
-- SMS-Benachrichtigungen (optional)
-- Unbegrenzte Anzahl von Tierprofilen (Pro-Plan)
+    <div class="feature-card">
+        <i class="fas fa-hospital"></i>
+        <h2>Tierheime & Tierärzte</h2>
+        <p><strong>Professionelle B2B-Lösung</strong></p>
 
-## Tierheime & Tierärzte (B2B)
+Professionelle Features:
+- <i class="fas fa-upload"></i> Massenupload von Fundtieren
+- <i class="fas fa-chart-bar"></i> Detaillierte KPI-Reports
+- <i class="fas fa-users"></i> Team-Management
+- <i class="fas fa-tools"></i> API-Integration
+    </div>
 
-Unser professionelles Dashboard bietet:
-- Sammelupload von Fundtieren
-- Automatische Matching-Warteschlange
-- Detaillierte KPI-Reports und Statistiken
-- Mehrbenutzer-Zugang für Teams
+    <div class="feature-card">
+        <i class="fas fa-user-shield"></i>
+        <h2>Moderation & Admin</h2>
+        <p><strong>Plattform-Management</strong></p>
 
-### B2B Vorteile
-- Effiziente Verwaltung von Fundtieren
-- Automatisierte Matching-Prozesse
-- Integrierte Kommunikationstools
-- Professionelles Reporting
+Verantwortlichkeiten:
+- <i class="fas fa-shield-alt"></i> Missbrauchsprüfung
+- <i class="fas fa-user-lock"></i> Nutzerverwaltung
+- <i class="fas fa-check-circle"></i> Qualitätssicherung
+- <i class="fas fa-handshake"></i> Partnermanagement
+    </div>
+</div>
 
-## Moderation & Administration
+## Preisübersicht
 
-Unser Moderationsteam sorgt für Sicherheit durch:
-- Aktive Missbrauchsprüfung
-- Verwaltung von Nutzer-Zugängen
-- Qualitätssicherung der Daten
-- Partnerverwaltung
-
-### Preisübersicht
+<div class="feature-grid">
 
 ![Abonnementvergleich](/assets/mockups/Abonnementvergleich für Whosthatpet.io.png)
 *Detaillierter Vergleich unserer Abonnement-Optionen*
 
-#### Besitzer-Tarife
-- **Basic**: Kostenlos (1 Tier)
-- **Plus**: 0,99 €/Monat (bis 3 Tiere)
-- **Pro**: 2,99 €/Monat (unbegrenzt Tiere)
+    <div class="feature-card">
+        <i class="fas fa-user"></i>
+        <h3>Basic</h3>
+        <p><strong>Kostenlos</strong></p>
+        <ul>
+            <li><i class="fas fa-check"></i> 1 Tier</li>
+            <li><i class="fas fa-check"></i> Basis-Features</li>
+        </ul>
+    </div>
+    
+    <div class="feature-card">
+        <i class="fas fa-user-plus"></i>
+        <h3>Plus</h3>
+        <p><strong>0,99 €/Monat</strong></p>
+        <ul>
+            <li><i class="fas fa-check"></i> Bis zu 3 Tiere</li>
+            <li><i class="fas fa-check"></i> Erweiterte Features</li>
+        </ul>
+    </div>
+    
+    <div class="feature-card">
+        <i class="fas fa-crown"></i>
+        <h3>Pro</h3>
+        <p><strong>2,99 €/Monat</strong></p>
+        <ul>
+            <li><i class="fas fa-check"></i> Unbegrenzte Tiere</li>
+            <li><i class="fas fa-check"></i> Alle Features</li>
+        </ul>
+    </div>
+    
+    <div class="feature-card">
+        <i class="fas fa-building"></i>
+        <h3>Business</h3>
+        <p><strong>Ab 29 €/Monat</strong></p>
+        <ul>
+            <li><i class="fas fa-check"></i> Professionelles Dashboard</li>
+            <li><i class="fas fa-check"></i> Team-Zugang</li>
+            <li><i class="fas fa-check"></i> API-Zugriff</li>
+        </ul>
+    </div>
+</div>
 
-#### Add-ons
-- Boost: 4,99 € (7 Tage)
-- SMS-Paket: 2,00 € (50 SMS)
-
-#### B2B-Tarife
-- Tierheim/Tierarzt: 29 €/Sitz/Monat
-- Stadt/Behörde: 499 €/Monat
+![Tarif-Vergleich](/assets/mockups/Abonnementvergleich für Whosthatpet.io.png)
+*Detaillierte Übersicht aller Tarife und Funktionen*

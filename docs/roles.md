@@ -1,12 +1,12 @@
 ---
 layout: simple
-title: Für wen ist WhosThatPet?
+title: Für wen ist W    <a href="flows.html" class="btn btn-primary">🔍 So funktioniert's</a>osThatPet?
 ---
 
 # Für wen ist WhosThatPet.io? 
 
 <div class="hero">
-    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
+    <img src="{{ site.baseurl }}/assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Jeder kann helfen - jeder kann profitieren</h1>
     <p>Unsere App verbindet alle, die Tieren helfen möchten</p>
 </div>
@@ -105,7 +105,7 @@ title: Für wen ist WhosThatPet?
         <cite>- Dr. Sarah Weber, Tierheim München</cite>
     </div>
     
-    <a href="/technical" class="btn btn-primary">⚙️ Technik Details</a>
+    <a href="technical.html" class="btn btn-primary">⚙️ Technik Details</a>
 </div>
 
 ## 💰 Preise - Fair und transparent
@@ -127,7 +127,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Anonymer Kontakt</li>
                 <li>✅ Unbegrenzt nutzen</li>
             </ul>
-            <a href="/flows" class="btn">🔍 Funktionen ansehen</a>
+            <a href="flows.html" class="btn">🔍 Funktionen ansehen</a>
         </div>
         
         <div class="pricing-card basic">
@@ -142,7 +142,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Benachrichtigungen</li>
                 <li>✅ Basis-Support</li>
             </ul>
-            <a href="/flows" class="btn">🚀 Mehr erfahren</a>
+            <a href="flows.html" class="btn">🚀 Mehr erfahren</a>
         </div>
         
         <div class="pricing-card pro popular">
@@ -159,7 +159,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Premium-Support</li>
                 <li>✅ Detaillierte Statistiken</li>
             </ul>
-            <a href="/technical" class="btn">⭐ Alle Features</a>
+            <a href="technical.html" class="btn">⭐ Alle Features</a>
         </div>
         
         <div class="pricing-card business">
@@ -175,7 +175,7 @@ title: Für wen ist WhosThatPet?
                 <li>✅ Persönlicher Support</li>
                 <li>✅ Custom Integration</li>
             </ul>
-            <a href="/technical" class="btn">🏥 Enterprise Info</a>
+            <a href="technical.html" class="btn">🏥 Enterprise Info</a>
         </div>
     </div>
 </div>

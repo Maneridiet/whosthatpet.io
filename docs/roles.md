@@ -5,79 +5,64 @@ title: Nutzerrollen
 
 # Nutzerrollen bei WhosThatPet.io
 
-Unsere Plattform ist für verschiedene Benutzergruppen optimiert, jede mit spezifischen Funktionen und Möglichkeiten.
+Unsere Plattform ist für verschiedene Nutzergruppen optimiert, um den Prozess der Tiersuche so effizient wie möglich zu gestalten.
 
-## Finder 🔍
-*Kostenlos, ohne Login*
+## Finder (ohne Login, kostenlos)
 
-### Funktionen
-- Foto hochladen und Fund melden
-- Automatischer Abgleich mit vermissten Tieren
-- Besitzer über Privacy-Relay kontaktieren
-- Anonym bleiben möglich
+Als Finder eines Tieres können Sie sofort und ohne Registrierung:
+- Fotos des gefundenen Tieres hochladen
+- Fundmeldung erstellen
+- Besitzer anonym über unser Privacy-Relay kontaktieren
 
-### Vorteile
-- Keine Registrierung erforderlich
-- Komplett kostenlos
-- Einfache, intuitive Bedienung
-- Schnelle Ergebnisse
+## Besitzer (Owner)
 
-## Besitzer (Owner) 👤
-*Registriertes Konto erforderlich*
+Mit einem kostenlosen Besitzer-Konto erhalten Sie:
+- Detaillierte Tierprofile anlegen
+- Vermisstenstatus aktivieren/deaktivieren
+- Automatische Benachrichtigungen bei möglichen Treffern
+- Sichere Kommunikation via Chat oder Relay-Anrufe
 
-### Basis-Funktionen
-- Tierprofil(e) anlegen und verwalten
-- Vermisstenstatus setzen und aktualisieren
-- Benachrichtigungen bei möglichen Treffern
-- Chat/Anruf via Privacy-Relay
+### Premium-Features für Besitzer
+- Boost-Funktion für höhere Sichtbarkeit (7 Tage)
+- SMS-Benachrichtigungen (optional)
+- Unbegrenzte Anzahl von Tierprofilen (Pro-Plan)
 
-### Premium-Funktionen
-- Boost für erhöhte Sichtbarkeit (7 Tage)
-- SMS-Benachrichtigungen
-- Unbegrenzte Tierprofile (Pro-Plan)
+## Tierheime & Tierärzte (B2B)
 
-### Preismodelle
-- **Owner Plus**: 0,99 €/Monat (bis 3 Tiere)
-- **Owner Pro**: 2,99 €/Monat (unbegrenzt)
-- **Add-ons**: 
-  - Boost: 4,99 € (7 Tage)
-  - SMS-Bundle: 2,00 € (50 SMS)
-
-## Tierheime & Tierärzte (B2B) 🏥
-*Professionelle Nutzer*
-
-### Funktionen
-- Professionelles Dashboard
-- Sammel-Uploads von Fundtieren
+Unser professionelles Dashboard bietet:
+- Sammelupload von Fundtieren
 - Automatische Matching-Warteschlange
-- Detaillierte KPI-Reports
-- CSV/API-Import-Möglichkeiten
+- Detaillierte KPI-Reports und Statistiken
+- Mehrbenutzer-Zugang für Teams
 
-### Vorteile
-- Effiziente Massenverwaltung
-- Automatisierte Workflows
-- Priorisierte Unterstützung
-- Erweiterte Analysefunktionen
+### B2B Vorteile
+- Effiziente Verwaltung von Fundtieren
+- Automatisierte Matching-Prozesse
+- Integrierte Kommunikationstools
+- Professionelles Reporting
 
-### Preismodell
-- 29 €/Sitz (Tierheim/Tierarzt)
-- 499 €/Monat (Stadt/Behörde)
+## Moderation & Administration
 
-## Moderation & Admin 👮
-*Interne Rolle*
-
-### Aufgaben
-- Missbrauchsprüfung
-- Qualitätskontrolle
-- Benutzer-/Kontenverwaltung
-- Datenexporte
+Unser Moderationsteam sorgt für Sicherheit durch:
+- Aktive Missbrauchsprüfung
+- Verwaltung von Nutzer-Zugängen
+- Qualitätssicherung der Daten
 - Partnerverwaltung
 
-### Werkzeuge
-- Umfassendes Admin-Dashboard
-- Moderations-Warteschlange
-- Audit-Trail aller Aktionen
-- System-Konfiguration
-- Performance-Monitoring
+### Preisübersicht
 
-[Mehr über die Core-Flows erfahren](/flows)
+![Abonnementvergleich](/assets/mockups/Abonnementvergleich für Whosthatpet.io.png)
+*Detaillierter Vergleich unserer Abonnement-Optionen*
+
+#### Besitzer-Tarife
+- **Basic**: Kostenlos (1 Tier)
+- **Plus**: 0,99 €/Monat (bis 3 Tiere)
+- **Pro**: 2,99 €/Monat (unbegrenzt Tiere)
+
+#### Add-ons
+- Boost: 4,99 € (7 Tage)
+- SMS-Paket: 2,00 € (50 SMS)
+
+#### B2B-Tarife
+- Tierheim/Tierarzt: 29 €/Sitz/Monat
+- Stadt/Behörde: 499 €/Monat

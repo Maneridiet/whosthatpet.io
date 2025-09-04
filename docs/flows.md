@@ -1,106 +1,113 @@
 ---
 layout: default
-title: Core-Flows
+title: Funktionsweise
 ---
 
-# Core-Flows
+# Funktionsweise der WhosThatPet.io Plattform
 
-## 1. Finder-Flow 🔍
+![Sichtungen von Haustieren in Berlin](/assets/mockups/Sichtungen von Haustieren in Berlin.png)
+*Übersicht der Tiersichtungen in Berlin*
 
-### Start
-1. **Einstieg**
-   - Über "Tier gefunden?" Button
-   - Keine Anmeldung erforderlich
+## Finder-Flow
 
-2. **Foto-Upload**
-   - 1-3 Bilder aufnehmen oder hochladen
-   - Automatische Qualitätsprüfung
-   - EXIF-Bereinigung
+### 1. Tier gefunden
+- Einfacher Start über "Tier gefunden?" Button
+- Aufnahme oder Upload von 1-3 Fotos
+- Optimale Bildqualität durch KI-gestützte Vorschau
 
-3. **Ort & Zeit**
-   - Standort via Adresseingabe oder GPS
-   - Automatischer Zeitstempel
-   - Optional: Zusätzliche Details
+### 2. Standort & Zeit
+- Automatische oder manuelle Standorterfassung
+- Präzise Zeitstempel für besseres Matching
+- Flexible Radius-Einstellung
 
-### KI-Matching
-1. **Analyse**
-   - Automatische Tierart-Erkennung (Hund/Katze/andere)
-   - Qualitätsprüfung der Bilder
-   - Extraktion von Merkmalen
+### 3. KI-Matching
+- Automatische Tierart-Erkennung (Hund/Katze/andere)
+- Qualitätsprüfung der Fotos
+- Intelligente Trefferliste mit:
+  - Ähnlichkeits-Score in Prozent
+  - Foto-Vergleich
+  - Entfernung zum Fundort
+  - Zeitliche Relevanz
 
-2. **Trefferliste**
-   - Sortiert nach Ähnlichkeits-Score
-   - Anzeige von Foto, Name, Distanz
-   - Prozentuale Übereinstimmung
+### 4. Kontaktaufnahme
+- Anonyme Kommunikation über Privacy-Relay
+- Wahlweise In-App-Nachrichten oder Relay-Anrufe
+- Optional: SMS-Benachrichtigung (falls vom Besitzer aktiviert)
 
-### Kontaktaufnahme
-- Button "Besitzer kontaktieren"
-- Wahl zwischen Chat oder Relay-Anruf
-- Anonymität möglich
-- Bei keinem Treffer: Fundanzeige erstellen
+![Chat Interface](/assets/mockups/ChatGPT Image 4. Sept. 2025, 09_40_41.png)
+*Benutzerfreundliche Chat-Schnittstelle für die Kommunikation*
 
-## 2. Owner-Flow 🏠
+### 5. Fundmeldung
+- Automatische Erstellung bei fehlenden Treffern
+- Unterstützt künftige Matching-Prozesse
+- Integration in die Matching-Datenbank
 
-### Registrierung
-1. **Onboarding**
-   - Login via E-Mail/Apple/Google
-   - AGB & Datenschutz Bestätigung
-   - Verifizierung der Kontaktdaten
+## Owner-Flow
 
-2. **Tierprofil anlegen**
-   - Name und Grunddaten
-   - Art, Rasse, Merkmale
-   - Mind. 3 Fotos empfohlen
-   - Optional: Mikrochip-Nummer (gehasht)
+### 1. Registrierung & Onboarding
+- Schnelle Anmeldung via E-Mail, Apple oder Google
+- Einfache Bestätigung der AGBs und Datenschutzerklärung
+- Optionale Zwei-Faktor-Authentifizierung
 
-### Vermisst-Meldung
-1. **Status setzen**
-   - Vermisst-Status aktivieren
-   - Suchradius festlegen
-   - Benachrichtigungen konfigurieren
+### 2. Tierprofil erstellen
+- Detaillierte Informationen:
+  - Name und Art des Tieres
+  - Rasse und spezifische Merkmale
+  - Fellfarbe und besondere Kennzeichen
+  - Optionale Mikrochip-Nummer (verschlüsselt)
+- Mindestens 3 hochwertige Fotos empfohlen
 
-2. **Treffer verwalten**
-   - Ähnlichkeits-Liste prüfen
-   - Detailvergleich der Fotos
-   - Markierungen und Notizen
+### 3. Vermisst-Modus
+- Aktivierung mit wenigen Klicks
+- Definition des Suchradius
+- Einstellung der Benachrichtigungsoptionen
+  - Push-Nachrichten
+  - E-Mail
+  - Optional: SMS
 
-### Kommunikation
-- In-App-Chat oder Relay-Telefonie
-- "Gefunden" bestätigen
-- Dankesnachricht senden
+### 4. Treffer-Management
+- Priorisierte Liste potenzieller Matches
+- Detaillierter Foto-Vergleich
+- KI-gestützte Ähnlichkeitsanalyse
+- Schnelle Kontaktaufnahme bei positiven Treffern
 
-### Premium-Features
-- Boost für 7 Tage
-- SMS-Benachrichtigungen
-- Pro-Plan Features
+### 5. Premium-Funktionen
+- Boost für erhöhte Sichtbarkeit
+- SMS-Benachrichtigungspakete
+- Pro-Plan für mehrere Tiere
+- Erweiterter Support
 
-## 3. B2B-Flow (Tierheim) 🏥
+## B2B-Flow (Tierheime & Tierärzte)
 
-### Daten-Import
-1. **Massenupload**
-   - CSV-Import
-   - API-Integration
-   - Foto-Batch-Upload
+### 1. Daten-Import
+- Flexible Import-Optionen:
+  - CSV-Upload
+  - API-Integration
+  - Direkteingabe über Dashboard
+- Automatische Datenvalidierung
 
-2. **Automatisches Matching**
-   - Abgleich mit Vermisstenmeldungen
-   - Radius-basierte Suche
-   - KI-gestützte Vorschläge
+### 2. Automatisches Matching
+- Kontinuierlicher Abgleich mit Vermisstenmeldungen
+- Priorisierung nach Wahrscheinlichkeit
+- Geografische Filterung
 
-### Verwaltung
-1. **Dashboard**
-   - Neue Fälle
-   - Offene Matches
-   - Erfolgsquote
+### 3. Workflow-Management
+- Übersichtliche Arbeitsliste
+- Status-Tracking:
+  - Neu
+  - In Bearbeitung
+  - Bestätigt
+  - Abgeschlossen
+- Teamzuweisung und Kommentarfunktion
 
-2. **Arbeitsliste**
-   - Status-basierte Sortierung
-   - Priorisierung
-   - Batch-Aktionen
-
-### Reporting
+### 4. Reporting
+- Detaillierte Statistiken
 - Monatliche KPIs
-- Erfolgsstatistiken
+- Erfolgsquoten
 - Export-Funktionen
 
-[Technische Details ansehen](/technical)
+### 5. Zusatzfunktionen
+- Multi-User-Management
+- Anpassbare Benachrichtigungen
+- API-Zugang
+- Premium-Support

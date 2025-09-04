@@ -1,118 +1,115 @@
 ---
 layout: default
-title: Datenschutz & Sicherheit
+title: Datenschutz
 ---
 
 # Datenschutz & Sicherheit
 
-## DSGVO-Compliance 📜
+## Datenschutz-Grundsätze
 
 ### Privacy by Design
-- **Datensparsamkeit**: Nur notwendige Daten erheben
-- **Zweckbindung**: Klare Nutzungszwecke definiert
-- **Löschkonzept**: Automatische Datenlöschung nach Zweckerfüllung
-- **Auftragsverarbeitung**: DPA mit allen Dienstleistern
+- Datensparsamkeit als Grundprinzip
+- Zweckgebundene Datenerhebung
+- Transparente Datenverarbeitung
+- Implementierte Löschkonzepte
 
-### Betroffenenrechte
-1. **Auskunft**
-   - Datenexport (JSON/CSV)
-   - Vollständige Protokolle
-   - Verarbeitungszwecke
+### Rechte der Betroffenen
+- Auskunftsrecht (JSON/CSV-Export)
+- Recht auf Löschung
+- Recht auf Datenübertragbarkeit
+- Widerspruchsrecht
 
-2. **Löschung**
-   - Self-Service-Portal
-   - Kaskadierendes Löschen
-   - Archivierung nach Rechtsvorgaben
-
-3. **Widerspruch**
-   - Einfache Opt-out-Möglichkeit
-   - Verarbeitungssperre
-   - Einschränkung der Nutzung
-
-## Datensicherheit 🔒
+## Datensicherheit
 
 ### Speicherung
-- **Hosting**: EU-Region (DSGVO-konform)
-- **Verschlüsselung**: 
-  - At-rest (AES-256)
-  - In-transit (TLS 1.3)
-- **Backup**: Tägliche Sicherung, verschlüsselt
+- Ausschließlich in EU-Rechenzentren
+- Verschlüsselung im Ruhezustand (at-rest)
+- Verschlüsselung bei Übertragung (in-transit)
+- Regelmäßige Sicherheits-Audits
 
-### Bildverarbeitung
-- EXIF-Daten-Entfernung
-  - GPS-Koordinaten
-  - Geräteinformationen
-  - Zeitstempel (falls gewünscht)
+### Foto-Sicherheit
+- Automatische EXIF-Bereinigung
+- Entfernung von Standortdaten
+- Sichere Speicherung
+- Kontrollierte Zugriffsrechte
 
-### Sensitive Daten
-- **Mikrochip-Nummern**: 
-  - Nur gehashte Speicherung
-  - Keine Klartextanzeige
-  - Sichere Vergleichsfunktion
+### Mikrochip-Daten
+- Ausschließlich gehashte Speicherung
+- Keine Klartextanzeige
+- Sicherer Vergleichsalgorithmus
 
-## Privacy-Relay-System 🔄
+## Kommunikationssicherheit
 
-### Kommunikation
-- Anonyme Kontaktaufnahme
-- Virtuelle Telefonnummern
-- Temporäre Chat-Kanäle
+### Privacy-Relay
+- Anonyme Kommunikation
+- Verschlüsselte Nachrichten
+- Temporäre Telefonnummern
+- Keine Weitergabe von Kontaktdaten
 
-### Datenschutz
-- Keine Speicherung von Metadaten
+### Chat-Sicherheit
+- Ende-zu-Ende-Verschlüsselung
+- Temporäre Nachrichtenspeicherung
 - Automatische Nachrichtenlöschung
-- End-zu-End-Verschlüsselung
+- Missbrauchserkennung
 
-## Missbrauchsschutz 🛡️
+## Missbrauchsschutz
 
-### Prävention
-- **Rate-Limits**: 
-  - IP-basiert
-  - Benutzer-basiert
-  - Adaptive Schwellwerte
+### Präventive Maßnahmen
+- Rate-Limiting
+- CAPTCHA-Integration
+- Automatische Moderationswarteschlange
+- KI-gestützte Inhaltsprüfung
 
-- **Verifizierung**:
-  - reCAPTCHA v3
-  - SMS-Verifizierung (optional)
-  - E-Mail-Bestätigung
+### Reaktive Maßnahmen
+- Melde-System
+- Moderations-Team
+- Account-Sperrungen
+- Protokollierung von Verstößen
 
-### Erkennung
-- **Automatisch**:
-  - KI-basierte Bildprüfung
-  - Spam-Erkennung
-  - Verhaltensanalyse
+## DSGVO-Compliance
 
-- **Moderation**:
-  - Melde-System
-  - Moderations-Queue
-  - Keyword-Filtering
+### Transparenz
+- Detaillierte Datenschutzerklärung
+- Verarbeitungsverzeichnis
+- Cookie-Richtlinien
+- Auftragsverarbeiter-Verträge
 
-### Maßnahmen
-- **Temporäre Sperren**:
-  - Warnungen
-  - Zeitliche Beschränkungen
-  - Feature-Einschränkungen
+### Technische Maßnahmen
+- Zugriffskontrollen
+- Protokollierung
+- Backup-Konzepte
+- Notfallpläne
 
-- **Permanente Sperren**:
-  - Bei schwerem Missbrauch
-  - IP-Range-Blocking
-  - Accountsperre
+### Organisatorische Maßnahmen
+- Datenschutzbeauftragter
+- Mitarbeiterschulungen
+- Dokumentierte Prozesse
+- Regelmäßige Überprüfungen
 
-## Compliance-Dokumentation 📋
+## Partner & Dienstleister
 
-### Rechtliches
-- Impressum
-- DSGVO-konforme Datenschutzerklärung
-- Cookie-Richtlinie
-- Nutzungsbedingungen
+### Anforderungen
+- EU-DSGVO-Konformität
+- Zertifizierungen
+- Technische Standards
+- Regelmäßige Audits
 
-### Zertifizierungen
-- ISO 27001 (angestrebt)
-- DSGVO-Audit
-- Penetrationstests
+### Verträge
+- Auftragsverarbeitung (AVV)
+- Vertraulichkeitsvereinbarungen
+- Technische Spezifikationen
+- Service Level Agreements
 
-### Regelmäßige Updates
-- Quartalsweise Überprüfung
-- Anpassung an neue Rechtsprechung
-- Stakeholder-Kommunikation
+## Datenlöschung
 
-[Zurück zur Startseite](/)
+### Automatische Löschung
+- Inaktive Accounts (nach 12 Monaten)
+- Erfolgreiche Matches (nach 30 Tagen)
+- Chat-Verläufe (nach 90 Tagen)
+- Temporäre Daten (nach 24 Stunden)
+
+### Manuelle Löschung
+- Auf Anfrage
+- Bei Accountkündigung
+- Bei berechtigtem Interesse
+- Nach Widerspruch

@@ -1,18 +1,22 @@
 title: WhosThatPet.io
-description: KI-gestützte Haustier-Findeplattform
+description: KI-gestützte Haustier-Matching-Plattform
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://whosthatpet.io" # replace with your actual domain
+
+# Build settings
 theme: jekyll-theme-cayman
-baseurl: ""
-url: ""
+plugins:
+  - jekyll-seo-tag
 
 # Navigation
 navigation:
-  - title: Start
+  - title: Home
     url: /
   - title: Nutzerrollen
     url: /roles
-  - title: Core-Flows
+  - title: Funktionsweise
     url: /flows
   - title: Technische Details
     url: /technical
-  - title: Datenschutz & Sicherheit
+  - title: Datenschutz
     url: /privacy

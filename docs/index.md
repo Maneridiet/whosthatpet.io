@@ -1,48 +1,53 @@
 ---
 layout: default
-title: Start
+title: Home
 ---
 
-# WhosThatPet.io - KI-gestützte Haustier-Findeplattform
+# WhosThatPet.io - KI-gestützte Haustiersuche
 
-## Schneller Haustiere wiederfinden mit KI-Bilderkennung
+![Spenden-Interface](/assets/mockups/Handy-Spendeformular mit Haustierbildern.png)
+*Mobile Ansicht unserer Plattform*
 
-WhosThatPet.io revolutioniert die Suche nach vermissten Haustieren durch innovative KI-Technologie. Unsere Plattform verbindet Finder und Besitzer von Haustieren schnell, einfach und sicher.
+## Schneller vermisste Haustiere finden mit KI-Bilderkennung
+
+WhosThatPet.io ist eine innovative Plattform, die modernste KI-Technologie nutzt, um vermisste Haustiere schneller mit ihren Besitzern zu vereinen. Unsere Lösung ist einfach, effektiv und kostenlos für Finder.
 
 ### So funktioniert's
 
-1. **Foto hochladen** 📸
-   - Finder laden ein Foto des gefundenen Tieres hoch
+1. **Foto hochladen** 🐾
+   - Haben Sie ein Tier gefunden? Laden Sie einfach ein Foto hoch
    - Unsere KI analysiert das Bild sofort
 
 2. **Automatischer Abgleich** 🔍
-   - Die App vergleicht das Foto mit vermissten Tieren in der Datenbank
-   - Zeigt Treffer nach Wahrscheinlichkeit sortiert an
+   - Intelligenter Vergleich mit gemeldeten vermissten Tieren
+   - Anzeige der wahrscheinlichsten Übereinstimmungen
 
-3. **Sicherer Kontakt** 🤝
-   - Kontaktaufnahme läuft über ein Privacy-Relay
-   - Persönliche Daten bleiben geschützt
+3. **Sicherer Kontakt** 💌
+   - Anonyme Kontaktaufnahme über unser Privacy-Relay
+   - Schnelle und sichere Kommunikation zwischen Finder und Besitzer
 
-### Hauptvorteile
+### Vorteile
 
-- **Schnell & Effizient**: Sofortige KI-basierte Bilderkennung
-- **Kostenlos für Finder**: Keine Registrierung erforderlich
-- **Datenschutzkonform**: DSGVO-konformes Privacy-Relay-System
-- **Professionelle Integration**: Spezielle Features für Tierheime und Tierärzte
+#### Für Finder
+- Kostenlose Nutzung
+- Keine Registrierung erforderlich
+- Anonyme Kontaktmöglichkeit
+- Einfache Bedienung
 
-### Für wen ist WhosThatPet.io?
+#### Für Besitzer
+- Schnelle Benachrichtigung bei Treffern
+- Sicheres Kommunikationssystem
+- Detaillierte Tierprofil-Verwaltung
+- Optionale Premium-Features
 
-- **Finder**: Kostenlos und ohne Anmeldung Fundtiere melden
-- **Besitzer**: Tierprofil anlegen und schnell benachrichtigt werden
-- **Tierheime & Tierärzte**: Professionelles Dashboard mit erweiterten Funktionen
+#### Für Tierheime & Tierärzte
+- Professionelles Dashboard
+- Massenupload-Funktion
+- Automatische Matching-Warteschlange
+- Detaillierte Statistiken
 
-[Mehr über Nutzerrollen erfahren](/roles)
+### Starten Sie jetzt
 
-### Leistungsversprechen
-
-- Erste Matches in < 5 Minuten (Median)
-- Treffergenauigkeit von ≥ 60% (Top 5 Vorschläge)
-- 99,9% Verfügbarkeit
-- Support-Reaktionszeit < 24h
-
-[Technische Details ansehen](/technical)
+- [Tier gefunden? Hier melden](/finder)
+- [Als Besitzer registrieren](/register)
+- [Für Tierheime & Tierärzte](/business)

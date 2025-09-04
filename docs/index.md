@@ -6,7 +6,7 @@ title: Home
 # WhosThatPet.io - Liebevoll vermisste Haustiere nach Hause bringen
 
 <div class="hero">
-    <div class="hero-logo">🐕</div>
+    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Dein Haustier vermisst? Wir helfen!</h1>
     <p>Jede Minute zählt! Mit unserer intelligenten App bringen wir vermisste Fellnasen schneller zurück zu ihren liebenden Familien.</p>
     <a href="#start" class="btn">🔍 Sofort Tier suchen</a>

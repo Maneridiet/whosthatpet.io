@@ -6,7 +6,7 @@ title: Für wen ist WhosThatPet?
 # Für wen ist WhosThatPet.io? 
 
 <div class="hero">
-    <div class="hero-logo">👥</div>
+    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
     <h1>Jeder kann helfen - jeder kann profitieren</h1>
     <p>Unsere App verbindet alle, die Tieren helfen möchten</p>
 </div>

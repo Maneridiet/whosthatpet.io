@@ -1,120 +1,104 @@
 ---
-la<div class="hero">
-    <img src="assets/images/whosthatpet-logo.png" alt="WhosThatPet.io Logo" class="hero-logo">
-    <h1>Vermisste Haustiere schneller nach Hause bringen</h1>
-    <p>Mit modernster KI-Technologie helfen wir, gefundene und vermisste Haustiere mit ihren Besitzern zu vereinen.</p>
-    <a href="#start" class="btn">Jetzt Tier melden</a>
-</div> simple
+layout: simple
 title: Home
 ---
 
-# WhosThatPet.io - KI-gestützte Haustiersuche
+# WhosThatPet.io - Liebevoll vermisste Haustiere nach Hause bringen
 
 <div class="hero">
-    <h1>Vermisste Haustiere schneller nach Hause bringen</h1>
-    <p>Mit modernster KI-Technologie helfen wir, gefundene und vermisste Haustiere mit ihren Besitzern zu vereinen.</p>
-    <a href="#start" class="btn btn-primary">Jetzt Tier melden</a>
+    <div class="hero-logo">🐕</div>
+    <h1>Dein Haustier vermisst? Wir helfen!</h1>
+    <p>Jede Minute zählt! Mit unserer intelligenten App bringen wir vermisste Fellnasen schneller zurück zu ihren liebenden Familien.</p>
+    <a href="#start" class="btn">🔍 Sofort Tier suchen</a>
 </div>
 
 <div class="mockup-grid">
     <div class="mockup-item">
-        <img src="assets/mockups/iPhone 15 mit Whosthatpet.io App.png" alt="WhosThatPet.io App auf dem iPhone 15" style="max-height: 400px; width: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <p><em>WhosThatPet.io App auf dem iPhone 15</em></p>
+        <img src="assets/mockups/iPhone 15 mit Whosthatpet.io App.png" alt="WhosThatPet.io App">
+        <h3>📱 Einfach per App</h3>
+        <p>Schnell und unkompliziert von unterwegs</p>
     </div>
     <div class="mockup-item">
-        <img src="assets/mockups/Tierfinder-App mit Katzenbild.png" alt="Intelligente Tiererkennung in Aktion" style="max-height: 400px; width: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <p><em>Intelligente Tiererkennung in Aktion</em></p>
+        <img src="assets/mockups/Tierfinder-App mit Katzenbild.png" alt="Tiererkennung">
+        <h3>🤖 Clevere Erkennung</h3>
+        <p>Moderne Technik erkennt Ihr Tier automatisch</p>
     </div>
 </div>
+
+<h2 class="section-title">Warum Tierbesitzer uns vertrauen</h2>
+<p class="section-subtitle">Tausende glückliche Reunions sprechen für sich</p>
 
 <div class="feature-grid">
     <div class="feature-card">
-        <i class="fas fa-camera"></i>
-        <h3>Einfaches Foto-Upload</h3>
-        <p>Laden Sie ein Foto hoch und unsere KI vergleicht es sofort mit der Datenbank vermisster Tiere.</p>
+        <div class="feature-icon">📸</div>
+        <h3>Foto genügt</h3>
+        <p>Einfach ein Foto vom gefundenen Tier machen - den Rest erledigen wir für Sie.</p>
     </div>
     <div class="feature-card">
-        <i class="fas fa-map-marker-alt"></i>
-        <h3>Intelligentes Matching</h3>
-        <p>Automatischer Abgleich mit Vermisstenmeldungen in Ihrer Nähe und präzise Trefferquoten.</p>
+        <div class="feature-icon">⚡</div>
+        <h3>Blitzschnell</h3>
+        <p>In wenigen Sekunden wissen Sie, ob das Tier jemand vermisst. Keine lange Wartezeit!</p>
     </div>
     <div class="feature-card">
-        <i class="fas fa-shield-alt"></i>
-        <h3>Sicherer Kontakt</h3>
-        <p>Anonyme und sichere Kommunikation zwischen Findern und Besitzern über unser Privacy-Relay.</p>
+        <div class="feature-icon">🛡️</div>
+        <h3>Sicher & anonym</h3>
+        <p>Ihre Daten bleiben geschützt. Kontakt nur wenn Sie möchten.</p>
     </div>
 </div>
 
-WhosThatPet.io ist eine innovative Plattform, die modernste KI-Technologie nutzt, um vermisste Haustiere schneller mit ihren Besitzern zu vereinen. Unsere Lösung ist einfach, effektiv und kostenlos für Finder.
+<h2 class="section-title">So einfach geht's</h2>
 
-### So funktioniert's
-
-1. **Foto hochladen** 🐾
-   - Haben Sie ein Tier gefunden? Laden Sie einfach ein Foto hoch
-   - Unsere KI analysiert das Bild sofort
-
-2. **Automatischer Abgleich** 🔍
-   - Intelligenter Vergleich mit gemeldeten vermissten Tieren
-   - Anzeige der wahrscheinlichsten Übereinstimmungen
-
-3. **Sicherer Kontakt** 💌
-   - Anonyme Kontaktaufnahme über unser Privacy-Relay
-   - Schnelle und sichere Kommunikation zwischen Finder und Besitzer
-
-### Vorteile
-
-#### Für Finder
-- Kostenlose Nutzung
-- Keine Registrierung erforderlich
-- Anonyme Kontaktmöglichkeit
-- Einfache Bedienung
-
-#### Für Besitzer
-- Schnelle Benachrichtigung bei Treffern
-- Sicheres Kommunikationssystem
-- Detaillierte Tierprofil-Verwaltung
-- Optionale Premium-Features
-
-#### Für Tierheime & Tierärzte
-- Professionelles Dashboard
-- Massenupload-Funktion
-- Automatische Matching-Warteschlange
-- Detaillierte Statistiken
-
-## So funktioniert's
-
-<div class="timeline">
-    <div class="timeline-item">
-        <div class="timeline-content">
-            <h3><i class="fas fa-upload"></i> 1. Foto hochladen</h3>
-            <p>Nehmen Sie ein Foto des gefundenen Tieres auf oder laden Sie bestehende Bilder hoch.</p>
-        </div>
+<div class="step-grid">
+    <div class="step-card">
+        <div class="step-number">1</div>
+        <h3>📷 Foto machen</h3>
+        <p>Haben Sie ein Tier gefunden? Machen Sie einfach ein Foto mit Ihrem Handy.</p>
     </div>
-    <div class="timeline-item">
-        <div class="timeline-content">
-            <h3><i class="fas fa-search"></i> 2. KI-Analyse</h3>
-            <p>Unsere KI vergleicht das Foto sofort mit allen gemeldeten vermissten Tieren in der Umgebung.</p>
-        </div>
+    <div class="step-card">
+        <div class="step-number">2</div>
+        <h3>🔍 Automatische Suche</h3>
+        <p>Unsere App durchsucht sofort alle Vermisstenmeldungen in Ihrer Nähe.</p>
     </div>
-    <div class="timeline-item">
-        <div class="timeline-content">
-            <h3><i class="fas fa-comments"></i> 3. Kontakt aufnehmen</h3>
-            <p>Bei einem Match können Sie sicher und anonym mit dem Besitzer kommunizieren.</p>
-        </div>
+    <div class="step-card">
+        <div class="step-number">3</div>
+        <h3>💌 Kontakt herstellen</h3>
+        <p>Bei einem Treffer stellen wir den Kontakt zum glücklichen Besitzer her!</p>
     </div>
 </div>
 
-<div style="text-align: center; margin-top: 3rem;">
-    <h2 id="start">Jetzt starten</h2>
-    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+<div id="start" class="cta-section">
+    <h2>Helfen Sie mit - jetzt sofort!</h2>
+    <p>Jede Sekunde zählt, wenn ein Tier vermisst wird</p>
+    <div class="cta-buttons">
         <a href="/finder" class="btn btn-primary">
-            <i class="fas fa-paw"></i> Tier gefunden melden
+            🐾 Tier gefunden? Hier melden!
         </a>
-        <a href="/register" class="btn btn-primary">
-            <i class="fas fa-user-plus"></i> Als Besitzer registrieren
+        <a href="/register" class="btn btn-secondary">
+            💔 Mein Tier vermisst
         </a>
-        <a href="/business" class="btn btn-primary">
-            <i class="fas fa-building"></i> Für Tierheime & Tierärzte
-        </a>
+    </div>
+</div>
+
+<div class="success-stories">
+    <h2>Erfolgsgeschichten</h2>
+    <div class="story-grid">
+        <div class="story-card">
+            <div class="story-emoji">🐕</div>
+            <h3>Max wieder da!</h3>
+            <p>"Innerhalb von 2 Stunden war unser Max wieder zu Hause. Unfassbar!"</p>
+            <small>- Familie Schmidt, München</small>
+        </div>
+        <div class="story-card">
+            <div class="story-emoji">🐱</div>
+            <h3>Mimi gefunden</h3>
+            <p>"Die App hat sofort erkannt, dass es unsere Mimi ist. Wir sind so dankbar!"</p>
+            <small>- Lisa M., Hamburg</small>
+        </div>
+        <div class="story-card">
+            <div class="story-emoji">🐰</div>
+            <h3>Happy End für Hoppel</h3>
+            <p>"Dank der Finder-App konnte unser Kaninchen schnell zurück zu uns."</p>
+            <small>- Familie Wagner, Berlin</small>
+        </div>
     </div>
 </div>
